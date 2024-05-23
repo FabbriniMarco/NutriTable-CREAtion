@@ -1,0 +1,901 @@
+food_id	food_name
+000020	Farro perlato, crudo
+000025	Farro perlato, cotto, bollito
+000030	Frumento duro
+000040	Frumento tenero
+000045	Couscous, crudo
+000046	Couscous, cotto
+000050	Grano saraceno
+000060	Mais
+000070	Mais, dolce, in scatola, sgocciolato
+000075	Polenta, cruda
+000076	Polenta, cotta
+000080	Miglio
+000081	Miglio, decorticato
+000090	Orzo perlato
+000095	Orzo perlato, cotto, bollito
+000096	Quinoa, cruda
+000097	Quinoa, cotta, bollita
+000100	Riso, brillato
+000105	Riso, brillato, cotto, bollito
+000110	Riso, integrale
+000115	Riso, integrale, cotto, bollito
+000120	Riso, parboiled
+000125	Riso, parboiled, cotto, bollito
+000130	Riso Basmati, crudo
+000135	Riso Basmati, cotto, bollito
+000140	Riso Venere, crudo
+000145	Riso Venere, cotto, bollito
+000150	Crusca di frumento
+000200	Farina d'avena
+000210	Farina d'orzo
+000220	Farina di frumento, tipo 00
+000230	Farina di frumento, tipo 0
+000240	Farina di frumento, integrale
+000250	Farina di frumento, duro
+000260	Farina di mais
+000270	Farina di riso
+000280	Farina di segale
+000290	Farina di soia
+000300	Mais, amido
+000310	Semola
+000320	Farina di manioca
+000330	Germe di frumento
+000500	Pane al malto
+000510	Pane di segale
+000530	Pane bianco
+000540	Pane di tipo semintegrale
+000550	Pane di tipo integrale
+000560	Pane formato rosetta
+000570	Pangrattato
+000580	Panini al latte
+000590	Panini all'olio
+000600	Pane azzimo
+000700	Pizza bianca
+000710	Pizza con pomodoro
+000720	Pizza con pomodoro e mozzarella
+000800	Pasta di semola
+000805	Pasta di semola, cotta, bollita
+000850	Pasta di semola, integrale
+000855	Pasta di semola, integrale, cotta, bollita
+000870	Pasta all'uovo, secca
+000871	Pasta all'uovo, secca, cotta, bollita
+000875	Ravioli, crudi, freschi
+000876	Ravioli, cotti
+000880	Tortellini, freschi
+000885	Tortellini, freschi, cotti
+000890	Tortellini, secchi
+000900	Biscotti, frollini
+000910	Biscotti, integrali
+000950	Biscotti, secchi
+000960	Biscotti, alla soia
+000970	Biscotti, integrali, con soia
+000990	Biscotti, wafers
+001000	Crackers, al formaggio
+001010	Crackers, alla soia
+001020	Crackers, salati
+001030	Crackers, integrali
+001500	Fette biscottate
+001510	Fette biscottate, integrali
+002000	Grissini
+002500	Cornetti
+002510	Croissants
+003000	Bastoncini di crusca di frumento
+003020	Corn flakes
+003030	Fiocchi d'avena
+003040	Muesli
+003050	Riso, soffiato, da prima colazione
+004000	Ceci, secchi
+004005	Ceci, secchi, cotti, bolliti
+004010	Ceci, in scatola, scolati
+004100	Fagioli
+004105	Fagioli, cotti, bolliti
+004110	Fagioli, Borlotti, freschi
+004115	Fagioli, Borlotti, freschi, cotti, bolliti
+004120	Fagioli, Borlotti, secchi
+004125	Fagioli, Borlotti, secchi, cotti, bolliti
+004130	Fagioli, Borlotti, in scatola, scolati
+004200	Fagioli, Cannellini, secchi
+004205	Fagioli, Cannellini, secchi, cotti, bolliti
+004210	Fagioli, Cannellini in scatola, scolati
+004220	Fagioli dall'occhio, secchi
+004305	Fagiolini a corallo, cotti, bolliti
+004310	Fagiolini, freschi
+004325	Fagiolini, surgelati, cotti, bolliti
+004400	Fave, fresche
+004406	Fave, fresche, cotte, in padella
+004410	Fave, secche
+004420	Fave, secche, sgusciate, crude
+004425	Fave, secche, sgusciate, cotte, bollite
+004500	Lenticchie, secche
+004505	Lenticchie, secche, cotte, bollite
+004510	Lenticchie, in scatola, scolate
+004600	Lupini, ammollati
+004700	Piselli, freschi
+004706	Piselli, freschi, cotti, in padella
+004710	Piselli, secchi
+004720	Piselli, in scatola, scolati
+004730	Piselli, surgelati
+004900	Soia, secca
+004910	Soia, isolato proteico
+005000	Aglio
+005001	Aglio Rosso di Castelliri
+005002	Aglio Rosso di Procerno
+005003	Aglio Rosso di Sulmona
+005004	Aglio Bianco Piacentino
+005010	Agretti, crudi
+005025	Agretti, cotti, bolliti
+005030	Asparagi di bosco, crudi
+005040	Asparagi di campo, crudi
+005045	Asparagi di campo, cotti, bolliti
+005050	Asparagi di serra, crudi
+005060	Barbabietole rosse, crude
+005065	Barbabietole rosse, cotte, bollite
+005080	Bieta, cruda
+005084	Bieta, cotta, al microonde
+005085	Bieta, cotta, bollita
+005090	Broccoletti di rapa, crudi
+005095	Broccoletti di rapa, cotti, bolliti
+005105	Broccolo a testa, cotto, bollito
+005110	Broccolo a testa, crudo
+005120	Carciofi, crudi
+005124	Carciofi, cotti, al microonde
+005125	Carciofi, cotti, bolliti
+005130	Carciofi, surgelati
+005131	Carciofo Romanesco IGP
+005132	Carciofo, verde, precoce
+005134	Carciofo, violetto, precoce
+005136	Carciofo, Spinoso sardo
+005140	Cardi, crudi
+005150	Carote, crude
+005154	Carote, cotte, al microonde
+005155	Carote, cotte, bollite
+005160	Cavolfiore, crudo
+005164	Cavolfiore, cotto, al microonde
+005165	Cavolfiore, cotto, bollito
+005170	Cavoli di Bruxelles, crudi
+005175	Cavoli di Bruxelles, cotti, bolliti
+005180	Cavolo broccolo verde ramoso, crudo
+005185	Cavolo broccolo verde ramoso, cotto, bollito
+005190	Cavolo cappuccio, rosso, crudo
+005195	Cardi, cotti, bolliti
+005200	Cavolo cappuccio, verde, crudo
+005205	Cavolo cappuccio, verde, cotto, bollito
+005210	Cavolo verza, cruda
+005215	Cavolo verza, cotto, bollito
+005220	Cetrioli, freschi
+005230	Cicoria, da taglio, coltivata, cruda
+005240	Cicoria, di campo, cruda
+005245	Cicoria, di campo, cotta, bollita
+005250	Cicoria, witloof o indivia belga, cruda
+005300	Cipolle, crude
+005305	Cipolle, cotte, bollite
+005310	Cipolline, crude
+005315	Cipolline, cotte, bollite
+005320	Finocchi, crudi
+005324	Finocchi, cotti, al microonde
+005325	Finocchi, cotti, bolliti
+005330	Fiori di zucca, freschi
+005340	Foglie di rapa, crude
+005350	Germogli di soia
+005400	Indivia, fresca
+005410	Lattuga, fresca
+005420	Lattuga, a cappuccio, fresca
+005430	Lattuga, da taglio, fresca
+005435	Lattughino, fresco
+005436	Lattughino IV gamma, fresco
+005440	Radicchio, rosso, fresco
+005441	Radicchio rosso di Treviso IGP,  precoce
+005442	Radicchio rosso di Treviso  IGP,  tardivo
+005443	Radicchio variegato di Castelfranco IGP
+005450	Radicchio, verde, fresco
+005460	Rughetta o rucola, fresca
+005465	Scarola
+005466	Scarola IV gamma, fresca
+005470	Tarassaco o dente di leone, fresco
+005500	Melanzane, crude
+005506	Melanzane, cotte, in padella
+005507	Melanzane, cotte, al microonde
+005600	Peperoni, crudi
+005606	Peperoni, cotti, in padella
+005610	Peperoni, rossi e gialli, crudi
+005620	Peperoni, gialli, crudi
+005624	Peperoni, gialli, cotti, al microonde
+005630	Peperoni, rossi, crudi
+005634	Peperoni, rossi, cotti, al microonde
+005640	Peperoni, verdi, crudi
+005650	Porri, crudi
+005655	Porri, cotti, bolliti
+005660	Rape, crude
+005665	Rape, cotte, bollite
+005670	Ravanelli, freschi
+005680	Sedano, crudo
+005684	Sedano, cotto, al microonde
+005690	Sedano rapa, crudo
+005700	Spinaci, crudi
+005704	Spinaci, cotti, al microonde
+005705	Spinaci, cotti, bolliti
+005710	Spinaci, surgelati
+005720	Zucca gialla, fresca
+005730	Zucchine, crude
+005735	Zucchine, cotte, bollite
+005740	Zucchine, chiare
+005741	Zucchine chiare, cotte, al vapore
+005742	Zucchine chiare, cotte, in padella grigliate
+005744	Zucchine, chiare, cotte, al microonde
+005750	Zucchine, scure, crude
+005751	Zucchine, scure, cotte, al vapore
+005752	Zucchine, scure, cotte, in padella grigliate
+005754	Zucchine, scure, cotte, al microonde
+006000	Funghi coltivati, prataioli, crudi
+006006	Funghi coltivati, prataioli, cotti, in padella
+006010	Funghi coltivati, pleurotes, crudi
+006016	Funghi coltivati, pleurotes, cotti, in padella
+006020	Funghi ovuli, crudi
+006030	Funghi porcini, crudi
+006200	Tartufo, nero
+006500	Patate, crude
+006505	Patate, con buccia, cotte, bollite
+006511	Patate, cotte, arrosto
+006514	Patate, cotte, al microonde
+006515	Patate, senza buccia, cotte, bollite
+006517	Patate, fritte
+006570	Patatine, fritte, confezionate in busta
+006580	Patate novelle, crude
+006584	Patate novelle, cotte, al microonde
+006585	Patate novelle, cotte, bollte
+006590	Gnocchi di patate, crudi
+006591	Gnocchi di patate, cotti
+006596	Topinambur, cotto, bollito
+006600	Pomodori, da insalata, freschi
+006610	Pomodori, maturi, freschi
+006620	Pomodori, San Marzano, freschi
+006630	Pomodori, Nerina, verdi, freschi
+006640	Pomodori, Nerina, rossi, freschi
+006650	Pomodorini ciliegino, freschi
+006660	Pomodori, conserva
+006670	Pomodori, passata
+006680	Pomodori, pelati in scatola
+006690	Pomodori, succo
+006800	Basilico, fresco
+006810	Menta, fresca
+006820	Pepe nero
+006830	Peperoncini piccanti, freschi
+006840	Prezzemolo, fresco
+006850	Rosmarino, fresco
+006860	Salvia, fresco
+006990	Vegetali misti, surgelati
+007000	Albicocche, fresche
+007010	Albicocche, disidratate
+007020	Albicocche, sciroppate
+007030	Albicocche, secche
+007040	Cocomero, fresco
+007050	Fichi, freschi
+007053	Fichi, seccati al forno e mandorlati
+007060	Fichi, canditi
+007070	Fichi, secchi
+007080	Fichi d'india, freschi
+007090	Loti o kaki, freschi
+007100	Melagrane, fresche
+007110	Mele, fresche, senza buccia
+007120	Mele, fresche, con buccia
+007130	Mele, fresche, annurche
+007140	Mele, fresche, deliziose
+007150	Mele, fresche, golden
+007160	Mele, fresche, granny smith
+007170	Mele, fresche, imperatore
+007180	Mele, fresche, renette
+007190	Mele, disidratate
+007220	Mele cotogne, fresche
+007230	Melone, d'estate, fresco
+007240	Melone, d'inverno, fresco
+007250	Nespole, fresche
+007260	Pere, fresche, senza buccia
+007261	Pere, fresche, Abate Fetel
+007262	Pere, fresche, Coscia
+007263	Pere, fresche, Kaiser
+007264	Pere, fresche, Max
+007265	Pere, fresche, William
+007270	Pere, candite
+007280	Pesche, fresche, senza buccia
+007290	Pesche, fresche, con buccia
+007300	Pesche, disidratate
+007310	Pesche, sciroppate
+007320	Pesche, secche
+007330	Peschenoci, fresche
+007340	Prugne, fresche
+007350	Prugne, gialle
+007360	Prugne, rosse
+007370	Prugne, secche
+007380	Uva, fresca
+007390	Uva, bianca, fresca
+007400	Uva, nera, fresca
+007410	Uva, secca
+007420	Uva, succo, in cartone
+007460	Ananas, fresco
+007470	Ananas, sciroppato
+007480	Anona, fresca
+007490	Avocado, fresco
+007500	Babaco, fresco
+007510	Banane, fresche
+007520	Cocco, fresco
+007530	Cocco, essiccato
+007550	Feijoa, fresca
+007560	Guava, fresca
+007570	Kiwi, freschi
+007580	Litchi, freschi
+007590	Mango, fresco
+007600	Papaia, fresca
+007610	Passiflora, fresca
+007630	Datteri, secchi
+007700	Amarene, fresche
+007710	Ciliege, fresche
+007720	Ciliege, candite
+007730	Fragole, fresche
+007740	Lamponi, freschi
+007750	Mora di rovo
+007760	Mirtilli, freschi
+007770	Ribes, freschi
+008000	Arance, fresche
+008001	Arance bionde, fresche
+008002	Arance Valencia, fresche
+008003	Arance Washington Navel, fresche
+008004	Arance rosse, fresche
+008005	Arance Moro, fresche
+008006	Arance Sanguinello, fresche
+008007	Arance Tarocco, fresche
+008010	Arance succo, fresco
+008011	Arance bionde succo, fresco
+008012	Arance rosse succo, fresco
+008020	Clementine, fresche
+008030	Limoni, freschi
+008040	Limoni, succo
+008050	Mandaranci, freschi
+008060	Mandarini, freschi
+008070	Pompelmo, fresco
+008500	Arachidi, tostate
+008510	Carrube
+008520	Castagne
+008521	Castagne, arrostite
+008525	Castagne, bollite
+008530	Castagne, secche
+008540	Mandorle dolci, secche
+008550	Nocciole, secche
+008560	Noci
+008570	Noci, secche
+008580	Noci pecan
+008590	Pinoli
+008600	Pistacchi
+008605	Pistacchio di Bronte DOP
+008610	Anacardi
+008620	Macadamia
+008800	Olive da tavola conservate
+008810	Olive, nere
+008820	Olive, verdi
+008830	Olive, verdi, in salamoia
+008840	Oliva  Nocellara del Belice
+008850	Oliva Giarraffa
+008930	Succo di frutta
+008940	Cocktail di frutta sciroppata
+009010	Burro d'arachidi
+009100	Margarina, 100% vegetale
+009110	Margarina, 2/3 di grassi animali, 1/3 di grassi vegetali
+009200	Olio di oliva
+009210	Olio di oliva extra vergine
+009610	Olio di arachide
+009620	Olio di cocco
+009630	Olio di colza
+009640	Olio di germe di grano
+009650	Olio di girasole
+009660	Olio di mais
+009670	Olio di mandorle dolci
+009680	Olio di palma
+009690	Olio di sesamo
+009700	Olio di soia
+009710	Olio di vinacciolo
+009799	Oli vegetali
+101120	Bovino adulto o vitellone, tagli anteriori, crudo
+101130	Bovino adulto o vitellone, tagli posteriori, crudo
+101150	Bovino adulto o vitellone, costata, crudo
+101160	Bovino adulto o vitellone, fesa, crudo
+101170	Bovino adulto o vitellone, filetto, crudo
+101180	Bovino adulto o vitellone, girello, crudo
+101190	Bovino adulto o vitellone, lombata, crudo
+101200	Bovino adulto o vitellone, noce, crudo
+101210	Bovino adulto o vitellone, scamone, crudo
+101220	Bovino adulto o vitellone, sottofesa, crudo
+101230	Bovino adulto o vitellone, copertina di sotto, copertina di spalla, sottospalla e collo, crudo
+101240	Bovino adulto o vitellone, geretto anteriore e posteriore, crudo
+101250	Bovino adulto o vitellone, pancia, biancostato e punta di petto, crudo
+101260	Bovino adulto o vitellone, spalla, muscolo, girello e fesone, crudo
+101520	Vitello, filetto, crudo
+101521	Vitello, filetto, cotto in padella
+102000	Bufalo, solo tessuto muscolare, crudo
+103010	Cavallo, tessuto muscolare e grasso, crudo
+103020	Cavallo, solo tessuto muscolare, crudo
+104020	Agnello, crudo
+104029	Agnello, cotto, al forno
+104030	Agnello, coscio, crudo
+104033	Agnello, coscio, cotto, al forno
+104040	Agnello, costoletta, crudo
+104043	Agnello, costoletta, cotto, al forno
+104250	Capra, solo tessuto muscolare, crudo
+104300	Capretto, crudo
+104610	Pecora, solo tessuto muscolare, crudo
+105200	Maiale, coscio, crudo
+105210	Maiale, lombo, crudo
+105220	Maiale, spalla, crudo
+105230	Maiale, bistecca, crudo
+105236	Maiale, bistecca, cotto, in padella
+105600	Maiale, pesante, coscio, crudo
+105700	Maiale, pesante, lombo, crudo
+105800	Maiale, pesante, spalla, crudo
+106010	Anatra domestica, crudo
+106020	Faraona, coscio, con pelle, crudo
+106030	Faraona, coscio, senza pelle, crudo
+106032	Faraona, coscio, senza pelle, cotto, allo spiedo
+106050	Faraona, petto, senza pelle, crudo
+106052	Faraona, petto, senza pelle, cotto, allo spiedo
+106100	Gallina, crudo
+106150	Oca, crudo
+106200	Pollo, intero, con pelle, crudo
+106203	Pollo, intero, con pelle, cotto, al forno
+106210	Pollo, intero, senza pelle, crudo
+106213	Pollo, intero, senza pelle, cotto, al forno
+106251	Pollo, intero, con pelle, cotto, arrosto
+106261	Pollo, intero, senza pelle, cotto, arrosto
+106270	Pollo, ala, con pelle, crudo
+106273	Pollo, ala, con pelle, cotta, al forno
+106400	Pollo, fuso, con pelle, crudo
+106403	Pollo, fuso, con pelle, cotto, al forno
+106410	Pollo, fuso, senza pelle, crudo
+106413	Pollo, fuso, senza pelle, cotto, al forno
+106500	Pollo, petto, crudo
+106506	Pollo, petto, cotto, in padella
+106600	Pollo, sovracoscio, con pelle, crudo
+106603	Pollo, sovracoscio, con pelle, cotto, al forno
+106610	Pollo, sovracoscio, senza pelle, crudo
+106613	Pollo, sovracoscio, senza pelle, cotto, al forno
+106700	Tacchino intero, con pelle, crudo
+106710	Tacchino intero, senza pelle, crudo
+106719	Tacchino intero, senza pelle, cotto, al forno
+106800	Tacchino, coscio, con pelle, crudo
+106850	Tacchino, fesa, crudo
+106856	Tacchino, fesa, cotta, al forno
+106900	Tacchino, fuso, con pelle, crudo
+106903	Tacchino, fuso, con pelle, cotto, al forno
+106910	Tacchino, fuso, senza pelle, crudo
+106913	Tacchino, fuso, senza pelle, cotto, al forno
+106960	Tacchino, sovracoscio, senza pelle, crudo
+106963	Tacchino, sovracoscio, senza pelle, cotto, al forno
+107010	Coniglio intero, crudo
+107019	Coniglio, intero, cotto
+107020	Coniglio, intero surgelato, crudo
+107030	Coniglio, coscio, crudo
+108010	Cervo, solo tessuto muscolare, crudo
+108100	Daino, solo tessuto muscolare, crudo
+108510	Fagiano, crudo
+108520	Piccione giovane, crudo
+108530	Quaglia, crudo
+108900	Struzzo, solo tessuto muscolare, crudo
+108901	Struzzo, solo tessuto muscolare, cotto, al forno
+109010	Lumaca, cruda
+109510	Rana, crudo
+110020	Bresaola della Valtellina IGP
+110100	Capocollo
+110110	Capocollo di Calabria
+110130	Ciccioli
+110150	Coppa
+110190	Cotechino, confezionato precotto
+110195	Cotechino Modena IGP, cotto
+110200	Mortadella Bologna IGP
+110210	Mortadella di bovini e suini
+110300	Pancetta magretta
+110310	Pancetta tesa
+110320	Pancetta arrotolata
+110400	Prosciutto cotto
+110401	Prosciutto cotto, sgrassato
+110410	Prosciutto cotto, alta qualità
+110411	Prosciutto cotto, alta qualità, sgrassato
+110420	Prosciutto cotto, scelto
+110421	Prosciutto cotto, scelto,  sgrassato
+110500	Prosciutto crudo, di Modena DOP
+110501	Prosciutto crudo, di Modena DOP, sgrassato
+110505	Prosciutto crudo di montagna
+110510	Prosciutto crudo DOP, di Parma
+110511	Prosciutto crudo, di Parma DOP, sgrassato
+110515	Prosciutto crudo, di Pietraroja
+110520	Prosciutto crudo, di San Daniele DOP
+110521	Prosciutto crudo, di San Daniele DOP, sgrassato
+110525	Prosciutto crudo, disossato
+110526	Prosciutto crudo, disossato, sgrassato
+110530	Prosciutto crudo, gambuccio
+110535	Prosciutto crudo, Nazionale
+110536	Prosciutto crudo, Nazionale,  sgrassato
+110600	Salame Brianza
+110610	Salami italiani alla cacciatora DOP
+110620	Salame Fabriano
+110630	Salame Felino
+110640	Salame Milano
+110650	Salame Napoli
+110660	Salame nostrano
+110670	Salame ungherese
+110700	Salsiccia di fegato
+110710	Salsiccia di suino, fresca
+110716	Salsiccia di suino, fresca, cotta, in padella
+110720	Salsiccia di suino, secca
+110730	Salsiccia di Calabria
+110740	Soppressata di Calabria
+110800	Speck dell'Alto Adige IGP
+110900	Wurstel di puro suino, crudo
+110906	Wurstel di puro suino, cotto
+110950	Zampone confezionato, precotto
+110955	Zampone Modena IGP, cotto
+113010	Carne bovina in gelatina, in scatola
+113020	Carne bovina pressata, in scatola
+114010	Patè di coniglio
+114020	Patè di fegato
+114030	Patè di pollo
+114040	Patè di prosciutto
+115010	Animelle di bovini
+115019	Animelle di bovini, cotte
+115110	Cervello di bovini
+115120	Coratella di agnello
+115130	Coratella di vitello
+115210	Cuore di bovini
+115219	Cuore di bovini, cotto
+115220	Cuore di equini
+115230	Cuore di ovini
+115240	Cuore di pollo
+115249	Cuore di pollo, cotto
+115250	Cuore di suino
+115260	Cuore di tacchino
+115269	Cuore di tacchino, cotto
+115320	Fegato di bovini
+115329	Fegato di bovini, cotto
+115340	Fegato di equini
+115350	Fegato di ovini
+115360	Fegato di pollo
+115369	Fegato di pollo, cotto
+115370	Fegato di suini
+115379	Fegato di suini, cotto
+115380	Fegato di tacchino
+115389	Fegato di tacchino, cotto
+115400	Lingua di bovini
+115409	Lingua di bovini, cotta, fritta
+115500	Milza di bovini
+115600	Polmone di bovini
+115710	Rene di bovini
+115800	Trippa di bovini
+119020	Cheese burger, fast food
+119030	Hamburger, fast food
+119040	Chicken Nuggets, fast food
+119050	Hamburger piccolo, solo carne, fast food
+119060	Panino, fast food
+119070	Panino con hamburger piccolo, fast food
+119080	Patatine, fritte, fast food
+120010	Acciuga o alice
+120020	Acciuga o alice, sott'olio
+120030	Acciuga o alice, sotto sale
+120210	Anguilla, affumicata
+120220	Anguilla, marinata
+120230	Anguilla di fiume
+120240	Anguilla di mare
+120250	Anguilla d'allevamento, filetti
+120290	Capitone
+120300	Aringa
+120310	Aringa, affumicata
+120320	Aringa, marinata
+120330	Aringa, sotto sale
+120400	Boga
+120500	Carpa
+120510	Cefalo muggine
+120590	Bottarga, cefalo muggine
+120610	Cernia surgelata
+120710	Coregone
+120810	Corvina
+120910	Dentice
+120920	Dentice, surgelato
+121010	Halibut
+121100	Lattarini
+121200	Luccio
+121310	Melù o pesce molo
+121320	Melù o pesce molo, stoccafisso, secco
+121330	Melù o pesce molo, stoccafisso, ammollato
+121410	Merluzzo o nasello
+121420	Merluzzo o nasello, surgelato
+121423	Merluzzo o nasello, surgelato, cotto, in forno
+121424	Merluzzo o nasello, surgelato, cotto, al microonde
+121430	Merluzzo o nasello, surgelato, filetti
+121440	Merluzzo o nasello, baccalà, secco
+121450	Merluzzo o nasello, baccalà, ammollato
+121490	Merluzzo o nasello, bastoncini di pesce, surgelati
+121500	Mormora
+121600	Occhiata
+121710	Orata, surgelata
+121720	Orata fresca, filetti
+121730	Orata fresca d'allevamento, filetti
+121800	Pagello
+121900	Pagello bocca d'oro
+122000	Palombo
+122100	Pesce gatto
+122200	Razza
+122300	Rombo
+122400	Salmone, fresco
+122410	Salmone, affumicato
+122430	Salmone, in salamoia
+122500	Salpa
+122600	Sarago
+122700	Sarda
+122800	Sardine
+122806	Sardine, fritte
+122900	Scorfano
+123000	Sgombro o maccarello
+123010	Sgombro o maccarello, in salamoia
+123100	Sogliola
+123110	Sogliola, surgelata
+123200	Spigola
+123220	Spigola d'allevamento, filetti
+123300	Storione
+123390	Caviale, storione
+123400	Tinca
+123500	Tonno
+123550	Tonno in salamoia, sgocciolato
+123610	Tonno sott'olio, sgocciolato
+123900	Triglia
+124000	Trota
+124010	Trota surgelata
+124013	Trota surgelata, cotta, al microonde
+124014	Trota surgelata, cotta, in forno
+124050	Trota iridea d'allevamento, filetti
+124100	Suro o sugarello
+127100	Calamaro
+127110	Calamaro surgelato
+127120	Cozza o mitilo
+127130	Ostrica
+127150	Polpo
+127160	Seppia
+127170	Vongola
+128050	Aragosta
+128055	Aragosta, bollita
+128100	Gamberi
+128110	Gamberi sgusciati, surgelati
+128200	Granchio, in scatola
+130010	Latte di capra
+131010	Latte di pecora
+132010	Latte di bufala
+135010	Latte di vacca, pastorizzato, intero
+135020	Latte di vacca, pastorizzato, parzialmente scremato
+135030	Latte di vacca, pastorizzato, scremato
+135510	Latte di vacca, condensato, zuccherato
+135520	Latte di vacca, evaporato, non zuccherato
+135610	Latte di vacca, in polvere, intero
+135620	Latte di vacca, in polvere, parzialmente scremato
+135630	Latte di vacca, in polvere, scremato
+135810	Latte di vacca, UHT, intero
+135820	Latte di vacca, UHT, parzialmente scremato
+140100	Crema di latte, 12% di lipidi
+140300	Panna da montare, 35% di lipidi
+140400	Panna da cucina, sterilizzata, 23% di lipidi
+150010	Yogurt, da latte intero
+150015	Yogurt, 0% lipidi
+150020	Yogurt greco, da latte intero
+150025	Yogurt greco, da latte magro, alla frutta
+150030	Yogurt greco, 0% lipidi
+150035	Yogurt greco, 0% lipidi, aromatizzato
+150500	Yogurt da latte intero, alla frutta
+151000	Yogurt da latte, parzialmente scremato
+152000	Yogurt da latte, scremato
+158000	Yogurt caprino
+160400	Formaggio molle da tavola
+160410	Brie
+160420	Burrini
+160430	Butirro calabro
+160800	Caciocavallo
+160810	Cacioricotta di capra
+160820	Caciotta mista
+160830	Caciotta romana di pecora
+160840	Caciotta toscana
+160850	Caciottina vaccina
+160860	Caciottina fresca
+160870	Camembert
+160880	Cheddar
+160890	Crescenza
+161200	Dolce verde
+161600	Edam
+161610	Emmenthal
+162000	Feta
+162010	Fior di latte
+162020	Fontina
+162030	Formaggino
+162040	Formaggino con ridotto contenuto di grasso
+162050	Formaggio cremoso spalmabile
+162400	Gorgonzola
+162410	Grana Padano, DOP
+162420	Groviera
+163200	Italico
+164400	Latteria
+164800	Mascarpone
+164810	Mozzarella di bufala
+164811	Mozzarella di bufala campana DOP
+164820	Mozzarella di vacca
+166000	Parmigiano Reggiano DOP
+166010	Caciottina mista
+166050	Pecorino
+166060	Pecorino romano
+166070	Pecorino siciliano
+166100	Provolone
+166800	Ricotta di bufala
+166810	Ricotta di pecora
+166820	Ricotta di vacca
+166850	Robiola
+167200	Scamorza
+167250	Stracchino
+167600	Taleggio
+170010	Fiocchi di formaggio magro
+170510	Formaggio cremoso spalmabile, light
+180010	Uova di anatra, intero
+181100	Uova di gallina, intero
+181105	Uova di gallina, intero , cotto, alla coque o sodo
+181117	Uova di gallina, intero , cotto, a frittata o strapazzato
+181500	Uova di gallina, intero, congelato
+181600	Uova di gallina, intero, in polvere
+182010	Uova di gallina, albume
+183010	Uova di gallina, tuorlo
+183015	Uova di gallina, tuorlo , cotto, in camicia
+183800	Uova di gallina, tuorlo, congelato
+183900	Uova di gallina, tuorlo, in polvere
+185010	Uova di oca, intero
+189010	Uova di tacchina, intero
+190010	Burro
+191010	Lardo
+192010	Sego di bue
+193010	Strutto o sugna
+194000	Olio di fegato di merluzzo
+201500	Zucchero, saccarosio
+202010	Caramelle dure
+202020	Caramelle tipo &quot;mou&quot;
+202030	Lenti colorate ripiene di cioccolato
+202500	Gomme da masticare, lastrine e confetti
+202800	Torrone alla mandorla
+203010	Cioccolato, al latte
+203020	Cioccolato, fondente
+203030	Cioccolato, al latte con nocciole
+203500	Crema di nocciole e cacao
+204010	Canditi
+204500	Marmellata
+206010	Gelato confezionato, cacao, in vaschetta
+206020	Gelato confezionato, caffè, in vaschetta
+206040	Gelato confezionato, fior di latte, in vaschetta
+206050	Gelato confezionato, fior di latte, ricoperto di sorbetto alla fragola
+206060	Gelato confezionato, nocciola, in vaschetta
+206070	Gelato confezionato, panna, in vaschetta
+206080	Gelato confezionato, panna ricoperta di cioccolato fondente
+206090	Gelato confezionato, stracciatella, in vaschetta
+206100	Gelato confezionato, vaniglia, in vaschetta
+206260	Gelato confezionato, biscotto con crema, zabaione e cioccolato
+206270	Gelato confezionato, cono con panna e cioccolato
+206280	Gelato confezionato, cono con panna, scaglie di cioccolato e noccioline
+206710	Gelato confezionato, ghiacciolo all'arancio
+206800	Gelato confezionato, sorbetto al limone, in vaschetta
+207010	Baba' al rhum
+207020	Cannoli alla crema, industriale
+208500	Crostata, con crema al cacao, industriale
+208510	Crostata, con marmellata, industriale
+208520	Crostata, con marmellata di albicocche, industriale
+209010	Torta margherita
+210010	Miele
+210030	Merendine, con marmellata, industriale
+210040	Merendine, farcite con cacao, industriale
+210050	Merendine, tipo pan di Spagna, industriale
+210060	Merendine, tipo briosche, industriale
+210070	Merendine, tipo pasta frolla, industriale
+214000	Barretta al cocco ricoperta di cioccolato
+214500	Wafer ricoperto di cioccolato
+215000	Savoiardi, industriali
+216000	Panettone
+217000	Pasta di mandorle
+401010	Aranciata
+401100	Bevanda tipo cola
+403010	Bevanda alcolica, Aperitivo a base di vino
+404010	Bevanda alcolica, Birra chiara
+405010	Bevanda alcolica, Vino da pasto bianco
+405020	Bevanda alcolica, Vino da pasto rosso
+406010	Bevanda alcolica, Marsala tipico
+406500	Bevanda alcolica, Vermouth dolce
+406510	Bevanda alcolica, Vermouth secco
+407010	Bevanda alcolica, Liquori da dessert
+407510	Bevanda alcolica, Marsala all'uovo
+408010	Bevanda alcolica, Brandy
+408100	Bevanda alcolica, Grappa
+408900	Bevanda alcolica, Whisky
+409000	Bevanda alcolica, Spumante
+501200	Pop corn
+502260	Ketchup, salsa
+502760	Maionese, industriale
+503010	Dadi da brodo
+503100	Lievito di birra, compresso
+504010	Farina di castagne
+504100	Fecola di patate
+507100	Pappa reale
+508010	Cacao amaro, in polvere
+508100	Tè, foglie
+508200	Caffe' tostato
+509010	Soia, bevanda
+509020	Soia, salsa
+509030	Soia, yogurt
+900010	Minestre in scatola, crema di asparagi
+900110	Minestre in scatola, crema di cipolle
+900210	Minestre in scatola, crema di funghi
+900310	Minestre in scatola, crema di pollo
+900410	Minestre in scatola, crema di pomodori
+905010	Minestrone, cotto
+905100	Minestrone liofilizzato
+PC0001	Pizza Napoletana Margherita STG
+PC0002	Cannoli siciliani
+PC0003	Brasato al Barolo
+PC0004	Baccalà alla vicentina
+PC0005	Castagnaccio
+PC0006	Sugo di pomodoro
+PC0007	Ragù alla bolognese
+PC0008	Pesto alla genovese
+PC0009	Risotto alla parmigiana
+PC0010	Pasta e fagioli
+PC0011	Frittata
+PC0012	Spezzatino di vitellone al vino rosso
+PC0013	Scaloppina di tacchino al limone
+PC0014	Trota al forno
+PC0015	Merluzzo in umido
+PC0016	Pasta al sugo di pomodoro
+PC0017	Pasta al ragù alla bolognese
+PC0018	Pasta al pesto alla genovese
+PC0019	Riso al sugo di pomodoro
+PC0020	Riso al ragù alla bolognese
+PC0021	Riso burro e Parmigiano reggiano
+PC0022	Gnocchi al sugo di pomodoro
+PC0023	Gnocchi al ragù alla bolognese
+PC0024	Gnocchi al pesto alla genovese
+PC0025	Ravioli al burro e salvia
+PC0026	Ravioli al sugo di pomodoro
+PC0027	Polenta al sugo di pomodoro
+PC0028	Polenta al ragù alla bolognese
+PC0029	Alici al forno
+PC0030	Spigola al cartoccio
+PC0031	Sogliola al vino bianco
+PC0032	Frittata prosciutto e formaggio
+PC0033	Pasta cacio e pepe
+PC0034	Pasta burro e parmigiano
+PC0035	Pasta aglio, olio e peperoncino
+PC0036	Alici marinate
+PC0037	Pasta alla carbonara
+PC0038	Pasta alle vongole
+PC0039	Pasta alla amatriciana
+PC0040	Carciofi alla romana
+PC0041	Pomodori al riso
+PC0042	Parmigiana di melanzane
+PC0043	Gateau
+PC0044	Besciamella
+PC0045	Pan di Spagna
+PC0046	Pastiera
+PC0047	Torta di mele
+PC0048	Lasagna
+PC0049	Maionese, artigianale
+PC0050	Pasta integrale al sugo di pomodoro
+PC0051	Zucchine  grigliate
+PE0001	Riso Cantonese
+PE0002	Nachos
+PE0003	Kebab solo carne
+PE0004	Falafel
+PE0005	Sarmale
+PE0006	Involtini Primavera
+PE0007	Nuvole di gamberi
+PE0008	Ravioli al vapore
+PE0009	Spaghetti fritti
+PE0010	Pollo all'ananas
+PE0011	Pollo alle mandorle
+PE0012	Maiale in agrodolce
+PE0013	Gamberetti con funghi e bambù
+PE0014	Frutta mista caramellata
+PE0015	Gelato misto fritto
+PE0016	Hummus
+PE0017	Tabulè
