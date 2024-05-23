@@ -4,6 +4,7 @@ NutriTable CREAtion is a free open-source nutritional data calculator tool that 
 
 <div align=center>
   <img src="https://github.com/FabbriniMarco/NutriTable-CREAtion/assets/83694005/b1adb2c3-c94e-4f59-9e17-893b080c6c71" width="650" height="420">
+  <img src="https://github.com/FabbriniMarco/NutriTable-CREAtion/assets/83694005/433cf281-16c5-47e8-8077-95bcab8ed0d1" width="650" height="420">
 </div>
 
 <br>
