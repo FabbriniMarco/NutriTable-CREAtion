@@ -63,6 +63,15 @@ cd NutriTable-CREAtion
 python NutriTable-CREAtion.py
 ```
 
+You can also download the tarball archive from the [Release](https://github.com/FabbriniMarco/NutriTable-CREAtion/releases) section and decompress it.
+
+```sh
+wget https://github.com/FabbriniMarco/NutriTable-CREAtion/releases/download/v1.0/NutriTable-CREAtion.tar.gz
+tar -zxvf NutriTable-CREAtion.tar.gz
+cd NutriTable-CREAtion
+python NutriTable-CREAtion.py
+```
+
 <br>
 <br>
 
