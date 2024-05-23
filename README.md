@@ -17,6 +17,7 @@ NutriTable CREAtion is a free open-source nutritional data calculator tool that 
 - [Data Sources](#data-sources)
 - [Acknowledgements](#acknowledgements)
 - [Citation](#citation)
+- [License](#license)
   
 <br>
 <br>
@@ -129,3 +130,20 @@ Example:
 <br>
 
 > CREA-AN (2019) 'TABELLE DI COMPOSIZIONE DEGLI ALIMENTI, CREA AN, Aggiornamento 2019'. Website: https://www.alimentinutrizione.it/tabelle-di-composizione-degli-alimenti
+
+<br>
+<br>
+
+## License
+
+This project is licensed under the custom NutriTable CREAtion License. You are free to use, copy, and distribute the software for private, personal, and academic research purposes.
+
+**Restrictions:**
+- No commercial use
+- No modifications
+- No patent use
+
+For full licensing details, see the [LICENSE](./LICENSE) file.
+
+For any use cases not covered under this license, please contact the maintainer through the contact email provided in the Info tab inside the program:
+
